@@ -1,0 +1,17 @@
+.navbar{
+	margin-bottom: 50px;
+	border-radius:0;
+}
+/*Remove the jumbotron,s default bottom margin*/
+.jumbotron{
+	background-color: #99bbe8;
+	margin-bottom: 0;
+}
+footer{
+	background-color: #99bbe8;
+	padding: 20px;
+	clear: both;
+	color: white;
+	font-size: 20px;
+
+}
